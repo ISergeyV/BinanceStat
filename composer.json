@@ -1,0 +1,11 @@
+{
+    "require": {
+        "jaggedsoft/php-binance-api": "^0.5.25"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
