@@ -1,0 +1,29 @@
+
+n	php:S3776b"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(÷°ËÚúÿÿÿÿ
+k	php:S1192 "VDefine a constant instead of duplicating this literal "https://wex.nz/api/2/" 3 times.(é¾òÎ
+>php:S108Í")Either remove or fill this block of code.(®¥–
+?	php:S1481¬")Remove this unused "$mrc" local variable.(¯òí‹
+Ephp:S121‰"0Add curly braces around the nested statement(s).(¾ÿ°ê
+>php:S108‰")Either remove or fill this block of code.(å¥‡
+Jphp:S121©"0Add curly braces around the nested statement(s).(ìÓİÁÿÿÿÿÿ
+Jphp:S121 "0Add curly braces around the nested statement(s).(ìÓİÁÿÿÿÿÿ
+B	php:S2041¼"-Remove the parentheses from this "echo" call.(¤ŠO
+`	php:S1192O"FDefine a constant instead of duplicating this literal "WEX: " 5 times.(Ú®×üÿÿÿÿ
+>php:S108¾")Either remove or fill this block of code.(€ŒÖÀ
+j	php:S3776™"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(°±®ğ
+Jphp:S121"0Add curly braces around the nested statement(s).(Äô½Šûÿÿÿÿ
+t	php:S1192w"ZDefine a constant instead of duplicating this literal "WEX: Could not get reply." 6 times.(¤Çãùÿÿÿÿ
+i	php:S3776Ğ"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(ÎšÙ
+n	php:S1192/"TDefine a constant instead of duplicating this literal "https://wex.nz/tapi" 6 times.(ŸÄ••şÿÿÿÿ
+Jphp:S121µ"0Add curly braces around the nested statement(s).(ìÓİÁÿÿÿÿÿ
+j	php:S3776«"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(‰¶„«
+Ephp:S121“"0Add curly braces around the nested statement(s).(àµ£‡
+J	php:S1066Ä"/Merge this if statement with the enclosing one.(§ÛÄÖúÿÿÿÿ
+Y	php:S1142é">This function has 4 returns, which is more than the 3 allowed.(º÷ ¬ûÿÿÿÿ
+Cphp:S108»")Either remove or fill this block of code.(£òûûûÿÿÿÿ
+q	php:S1192l"\Define a constant instead of duplicating this literal "WEX: Invalid data received." 3 times.(¸ÒîÄ
+i	php:S3776}"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(ÆáÜ
+[	php:S4830™"@Enable server certificate validation on this SSL/TLS connection.(ïŸ¼›ÿÿÿÿÿ
+9php:S125"Remove this commented out code.(€¥½…ùÿÿÿÿ
+J	php:S1066£"/Merge this if statement with the enclosing one.(ªŸœ‹ÿÿÿÿÿ
+E	php:S1066Š"/Merge this if statement with the enclosing one.(Š²ˆ”
